@@ -1,0 +1,16 @@
+90272938,03/12/2021,2,(pizza type in one trasaction)
+Deluxe, Medium 11.5'', €21, 4, €84
+Hot & Spicy, Medium 11.5'', €25, 5, €125
+64488536,03/12/2021,1,(pizza type in one trasaction)
+Hawaiian, Medium 11.5'', €22, 3, €66
+33924309,03/12/2021,1,(pizza type in one transaction)
+Pepperoni Passion, Personal 7'', €7, 40, €280
+62657291,03/12/2021,2,(pizza type in one transaction)
+American Hot, Personal 7'', €17, 40, €680
+VEG-A-ROMA, Personal 7'', €5, 41, €205
+69206436,03/12/2021,1,(pizza type in one transaction)
+Pepperoni Passion, Small 9.5'', €12, 2, €24
+69604947,03/12/2021,1,(pizza type in one transaction)
+Vegi Supreme, Personal 7'', €9, 4, €36
+43009953,03/12/2021,1,(pizza type in one transaction)
+Deluxe, Medium 11.5'', €21, 2, €42

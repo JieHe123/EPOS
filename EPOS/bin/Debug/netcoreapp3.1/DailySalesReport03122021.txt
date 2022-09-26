@@ -1,0 +1,77 @@
+Name                                            	Qty	Price	Amount
+Deluxe  Medium 11.5''                 	6	€21	€126
+Hot & Spicy  Medium 11.5''            	5	€25	€125
+Hawaiian  Medium 11.5''               	3	€22	€66
+Pepperoni Passion  Personal 7''       	40	€7	€280
+American Hot  Personal 7''            	40	€17	€680
+VEG-A-ROMA  Personal 7''              	41	€5	€205
+Pepperoni Passion  Small 9.5''        	2	€12	€24
+Vegi Supreme  Personal 7''            	4	€9	€36
+VEG-A-ROMA Personal 7''               	0	0	0
+VEG-A-ROMA Small 9.5''                	0	0	0
+VEG-A-ROMA Medium 11.5''              	0	0	0
+VEG-A-ROMA Large 13.5''               	0	0	0
+VEG-A-ROMA Super Large 14.5''         	0	0	0
+Mighty Meaty Personal 7''             	0	0	0
+Mighty Meaty Small 9.5''              	0	0	0
+Mighty Meaty Medium 11.5''            	0	0	0
+Mighty Meaty Large 13.5''             	0	0	0
+Mighty Meaty Super Large 14.5''       	0	0	0
+Pepperoni Passion Personal 7''        	0	0	0
+Pepperoni Passion Small 9.5''         	0	0	0
+Pepperoni Passion Medium 11.5''       	0	0	0
+Pepperoni Passion Large 13.5''        	0	0	0
+Pepperoni Passion Super Large 14.5''  	0	0	0
+Texas BBQ Personal 7''                	0	0	0
+Texas BBQ Small 9.5''                 	0	0	0
+Texas BBQ Medium 11.5''               	0	0	0
+Texas BBQ Large 13.5''                	0	0	0
+Texas BBQ Super Large 14.5''          	0	0	0
+Vegi Supreme Personal 7''             	0	0	0
+Vegi Supreme Small 9.5''              	0	0	0
+Vegi Supreme Medium 11.5''            	0	0	0
+Vegi Supreme Large 13.5''             	0	0	0
+Vegi Supreme Super Large 14.5''       	0	0	0
+Buffalo Chicken Personal 7''          	0	0	0
+Buffalo Chicken Small 9.5''           	0	0	0
+Buffalo Chicken Medium 11.5''         	0	0	0
+Buffalo Chicken Large 13.5''          	0	0	0
+Buffalo Chicken Super Large 14.5''    	0	0	0
+Deluxe Personal 7''                   	0	0	0
+Deluxe Small 9.5''                    	0	0	0
+Deluxe Medium 11.5''                  	0	0	0
+Deluxe Large 13.5''                   	0	0	0
+Deluxe Super Large 14.5''             	0	0	0
+Hawaiian Personal 7''                 	0	0	0
+Hawaiian Small 9.5''                  	0	0	0
+Hawaiian Medium 11.5''                	0	0	0
+Hawaiian Large 13.5''                 	0	0	0
+Hawaiian Super Large 14.5''           	0	0	0
+Meateor Personal 7''                  	0	0	0
+Meateor Small 9.5''                   	0	0	0
+Meateor Medium 11.5''                 	0	0	0
+Meateor Large 13.5''                  	0	0	0
+Meateor Super Large 14.5''            	0	0	0
+Original Tomato Personal 7''          	0	0	0
+Original Tomato Small 9.5''           	0	0	0
+Original Tomato Medium 11.5''         	0	0	0
+Original Tomato Large 13.5''          	0	0	0
+Original Tomato Super Large 14.5''    	0	0	0
+Hot & Spicy Personal 7''              	0	0	0
+Hot & Spicy Small 9.5''               	0	0	0
+Hot & Spicy Medium 11.5''             	0	0	0
+Hot & Spicy Large 13.5''              	0	0	0
+Hot & Spicy Super Large 14.5''        	0	0	0
+DELIGHT VEGI Personal 7''             	0	0	0
+DELIGHT VEGI Small 9.5''              	0	0	0
+DELIGHT VEGI Medium 11.5''            	0	0	0
+DELIGHT VEGI Large 13.5''             	0	0	0
+DELIGHT VEGI Super Large 14.5''       	0	0	0
+American Hot Personal 7''             	0	0	0
+American Hot Small 9.5''              	0	0	0
+American Hot Medium 11.5''            	0	0	0
+American Hot Large 13.5''             	0	0	0
+American Hot Super Large 14.5''       	0	0	0
+
+totalQty: 141
+totalAmount: 1542
